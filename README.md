@@ -14,7 +14,6 @@ Electrical Engineering student on paper, passionate coder at heart. I'm on a mis
 - 💬 [ChatApp-Socket.io](https://github.com/heyswayam/chatapp-socket.io): Real-time chats? I've got you covered!
 - 🔐 [Password Generator](https://github.com/heyswayam/password-generator): Keeping the bad guys out, one random string at a time
 - 🎵 [Spotify UI Clone](https://github.com/heyswayam/spotify_ui_clone): My tribute to good music and sleek design
-- 
 
 ## 🚀 What's Next?
 Currently, I'm laser-focused on sharpening my problem-solving skills. But don't worry, I've got some full-stack projects simmering on the back burner. Stay tuned for more digital adventures!
