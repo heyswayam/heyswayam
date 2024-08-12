@@ -10,15 +10,11 @@ Electrical Engineering student on paper, passionate coder at heart. I'm on a mis
 
 
 ## 🛠 My Digital Playground
-- 🌟 [CodeBlox](https://codebloxapp.vercel.app/): It's my take on a blog website. Think of it as my own little Medium where anyone can sign up and share their thoughts. Not groundbreaking, but hey, it's mine and I'm proud of it!
-- 💬 [ChatApp-Socket.io](chat-app-socket-io-seven.vercel.appo): Real-time chats? I've got you covered!
-- 🔐 [Password Generator](link-to-repo): Keeping the bad guys out, one random string at a time
-- 🎵 [Spotify UI Clone](link-to-repo): My tribute to good music and sleek design
-<!-- - Full-stack development: Check out my projects [CodeBlox](https://codebloxapp.vercel.app/) and [ChatApp-Socket.io](chat-app-socket-io-seven.vercel.appo)
-- Frontend: I've worked on several frontend projects, including:
-  - [Currency Converter](link-to-repo)
-  - [Password Generator](link-to-repo)
-  - [Spotify UI Clone](link-to-repo) -->
+- 🌟 [CodeBlox](https://github.com/heyswayam/CodeBlox): It's my take on a blog website. Think of it as my own little Medium where anyone can sign up and share their thoughts. Not groundbreaking, but hey, it's mine and I'm proud of it!
+- 💬 [ChatApp-Socket.io](https://github.com/heyswayam/chatapp-socket.io): Real-time chats? I've got you covered!
+- 🔐 [Password Generator](https://github.com/heyswayam/password-generator): Keeping the bad guys out, one random string at a time
+- 🎵 [Spotify UI Clone](https://github.com/heyswayam/spotify_ui_clone): My tribute to good music and sleek design
+- 
 
 ## 🚀 What's Next?
 Currently, I'm laser-focused on sharpening my problem-solving skills. But don't worry, I've got some full-stack projects simmering on the back burner. Stay tuned for more digital adventures!
