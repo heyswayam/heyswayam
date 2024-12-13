@@ -36,9 +36,6 @@ Hit me up at heyyswayam@gmail.com – Let's make some digital magic happen!
 > - Friday: The bug is my only friend.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swayampattanaik/) 
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=heyswayam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
